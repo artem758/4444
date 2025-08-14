@@ -1,0 +1,12 @@
+INFO:root:AssociativeMemory.recall() \u2192 OK
+INFO:root:TestCleaner.cleanup() \u2192 OK
+INFO:root:ErrorHandler.handle() \u2192 OK
+INFO:root:InteractionManager.run() \u2192 OK
+INFO:root:Logger.log() \u2192 OK
+INFO:root:TestOrchestrator.run_all() \u2192 OK
+INFO:root:PaymentSystem.has_access() \u2192 OK
+INFO:root:TestReporter.generate() \u2192 OK
+INFO:root:Routers.route() \u2192 OK
+INFO:root:SessionManager.save/restore() \u2192 OK
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\grand\\PycharmProjects\\PythonProject\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\grand\PycharmProjects\PythonProject\.venv\lib\site-packages\comtypes\gen'

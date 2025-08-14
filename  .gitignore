@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.db
+*.sqlite3
+
+# Virtualenv
+.venv/
+env/
+venv/
+
+# Build artifacts
+build/
+dist/
+*.spec
+*.egg-info/
+*.apk
+*.exe
+
+# Kivy
+.kivy/
+.kivy_config/
+.kivy_cache/
+
+# Android / Buildozer
+.buildozer/
+*.apk
+*.keystore
+
+# Models
+models/*.bin
+models/*.gguf
+
+# Memory files
+memory/*.zip
+memory/*.json
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db

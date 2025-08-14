@@ -1,0 +1,9 @@
+2025-08-14 16:42:06,475 [INFO] Smoke: writing to log
+2025-08-14 16:42:09,521 [INFO] ZIP entries: ['.cache/', '.cache/huggingface/', '.cache/huggingface/download/', '.cache/huggingface/.gitignore', '.cache/huggingface/download/qwen3-30b-fp16.gguf.lock']...
+2025-08-14 17:05:13,335 [INFO] Smoke: writing to log
+2025-08-14 17:05:13,602 [WARNING] core.memory: none of classes ['AssociativeMemory'] found
+2025-08-14 17:05:13,611 [INFO] ZIP entries: ['.cache/', '.cache/huggingface/', '.cache/huggingface/download/', '.cache/huggingface/.gitignore', '.cache/huggingface/download/qwen3-30b-fp16.gguf.lock']...
+2025-08-14 17:08:49,691 [INFO] Smoke: writing to log
+2025-08-14 17:08:49,747 [INFO] ZIP entries: ['.cache/', '.cache/huggingface/', '.cache/huggingface/download/', '.cache/huggingface/.gitignore', '.cache/huggingface/download/qwen3-30b-fp16.gguf.lock']...
+2025-08-14 18:35:29,782 [INFO] Smoke: writing to log
+2025-08-14 20:13:16,734 [INFO] Smoke: writing to log
